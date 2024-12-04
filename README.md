@@ -1,5 +1,8 @@
 
-# IoT-Log-Parser-Software
+# IoT-Log-Parser-Software [Archived]
+
+
+## Main Repository - https://github.com/SupreethSudhakaranMenon/Smart_City_Living_Lab_2024
 
 This repository contains the IoT-Log-Parser-Software, a tool designed for parsing, analyzing, and visualizing IoT device logs. The software supports Base64 image decoding, web server log parsing, and generating structured data for analysis, accompanied by a user-friendly frontend interface.
 
